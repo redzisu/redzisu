@@ -3,7 +3,7 @@
 # Hi there!
 <a href="mailto:redzisu@gmail.com"><img src="https://img.shields.io/badge/redzisu@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <img src="https://img.shields.io/badge/@redzisu-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-
+<a href="https://velog.io/@redzisu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 ### 🛠️ Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></img>
