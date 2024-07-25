@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=130&&fontAlign=80&fontAlignY=40&color=gradient)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit Face.png" width="10%">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit Face.png" width="12%">
 
 ### 🌞 Social
 <a href="mailto:redzisu@gmail.com"><img src="https://img.shields.io/badge/redzisu@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
