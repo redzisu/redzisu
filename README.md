@@ -10,9 +10,10 @@
 ### 🛠️ Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></img><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/WebSquare5-294B81?style=flat-square&logo=Websquare&logoColor=white"></img>
 
 
-### ⭐ GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=redzisu&show_icons=true&theme=ambient_gradient">
+### ⭐ GitHub
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=redzisu&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=redzisu&theme=swift&utcOffset=8)
