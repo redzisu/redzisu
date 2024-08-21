@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Websqaure5-1A428A?style=flat"></img>
 
 
 ### ⭐ GitHub
