@@ -4,7 +4,8 @@
 
 ### 🌞 Social
 <a href="mailto:redzisu@gmail.com"><img src="https://img.shields.io/badge/redzisu@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
-<a href="https://velog.io/@redzisu/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
+<a href="https://red9isu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FE5949?style=flat&logo=Tistory&logoColor=white"></a>
+
 
 ### 🛠️ Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></img>
